@@ -191,7 +191,7 @@ namespace MantenimientoCuentas
         /// </summary>
         /// <param name="NroCuenta">Número de cuenta a buscar</param>
         /// <param name="lstCuentas">Listado de cuentas bancarias</param>
-        /// <returns></returns>
+        /// <returns>Cuenta Bancaria</returns>
         private static CuentaBancaria BuscarCuenta(int NroCuenta, List<CuentaBancaria> lstCuentas)
         {
             CuentaBancaria CuentaEncontrada = lstCuentas.Find(cuenta => cuenta.NumeroCuenta == NroCuenta);
