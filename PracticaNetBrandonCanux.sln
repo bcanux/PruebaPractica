@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaNetBrandonCanux", "PracticaNetBrandonCanux\PracticaNetBrandonCanux.csproj", "{A11FF846-CF64-4376-A623-ED15B3A3325B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MantenimientoCuentas", "MantenimientoCuentas\MantenimientoCuentas.csproj", "{4E1DFD08-5201-4C4F-AD40-8EFF5E1FDF65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A11FF846-CF64-4376-A623-ED15B3A3325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A11FF846-CF64-4376-A623-ED15B3A3325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A11FF846-CF64-4376-A623-ED15B3A3325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1DFD08-5201-4C4F-AD40-8EFF5E1FDF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1DFD08-5201-4C4F-AD40-8EFF5E1FDF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1DFD08-5201-4C4F-AD40-8EFF5E1FDF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1DFD08-5201-4C4F-AD40-8EFF5E1FDF65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
