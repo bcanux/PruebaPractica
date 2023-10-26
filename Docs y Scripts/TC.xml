@@ -1,0 +1,10 @@
+<ListadoTarjetas> 
+    <TarjetaCredito>
+        <Numero>1234-5678-9012-3456</Numero>
+        <FechaExpiracion>12/25</FechaExpiracion>
+        <IDClienteUnico>123456789</IDClienteUnico>
+        <NombreCliente>John Doe</NombreCliente>
+        <TipoTarjeta>Visa</TipoTarjeta>
+        <LimiteCredito>5000.00</LimiteCredito>
+    </TarjetaCredito>
+</ListadoTarjetas>
