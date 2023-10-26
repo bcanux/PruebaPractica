@@ -23,7 +23,7 @@ Clase de conexión a DB:
 PracticaNetBrandonCanux/Data/DBConexion.cs
 
 
-Diagrama de Entidad Relación: 
+Diagrama de Entidad Relación:     
 Docs y Scripts/ER_Promos.png
 
 
