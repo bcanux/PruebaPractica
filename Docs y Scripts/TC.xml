@@ -1,6 +1,6 @@
 <ListadoTarjetas> 
- <Sistema>Promérica</Sistema>
-        <Localizacion>Promérica</Localizacion>
+ <Sistema>Prom�rica</Sistema>
+        <Localizacion>Prom�rica</Localizacion>
     <TarjetaCredito>
         <Numero>1234-5678-9012-3456</Numero>
         <FechaExpiracion>12/25</FechaExpiracion>
